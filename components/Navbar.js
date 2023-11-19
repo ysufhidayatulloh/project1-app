@@ -9,13 +9,13 @@ const Navbar = () => {
           <div className="text-xl font-bold text-white">Your Logo</div>
           <div className="flex space-x-4">
             <Link href="/">
-              <a className="text-white">Home</a>
+             Home
             </Link>
             <Link href="/about">
-              <a className="text-white">About</a>
+              about
             </Link>
             <Link href="/contact">
-              <a className="text-white">Contact</a>
+             Contact
             </Link>
           </div>
         </div>
